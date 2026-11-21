@@ -1,6 +1,6 @@
 import os
 
-TEXT = "Rain on the window, and nowhere to be until it stops. The tea is warm. The list can wait. One breath in, one breath out, slower than the clock. What comes next is only one thing \u2014 and you have carried heavier mornings than this."
+TEXT = "Low tide. The boats rest on the mud and do not apologize for resting. The water always comes back; so does your strength. Breathe with the gulls' slow circling. When the tide turns, you will not need to hurry \u2014 you will already be facing the sea."
 
 
 def main():
