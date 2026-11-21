@@ -1,6 +1,6 @@
 import os
 
-TEXT = "Low tide. The boats rest on the mud and do not apologize for resting. The water always comes back; so does your strength. Breathe with the gulls' slow circling. When the tide turns, you will not need to hurry \u2014 you will already be facing the sea."
+TEXT = "Steam rises from the bowl, and both hands wrap around it. Outside, the street does all the rushing for you. The chair is yours. The light through the window has nowhere else to be. Eat slowly. When you stand \u2014 and you will \u2014 you will be unhurried, and entirely ready."
 
 
 def main():
